@@ -190,8 +190,8 @@ void poweroffRelay()
 <img width="1451" height="729" alt="Screenshot 2025-09-17 154737" src="https://github.com/user-attachments/assets/576a2c70-f62a-4131-8599-b9eccca5a921" />
 
 # Result
-
+```
 FAN SPEED CONTROLLER SYSTEM USING TEMPERATURE SENSOR USING TINKERCAD EXECUTED SUCCESSfully.
-
+```
 
 
