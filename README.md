@@ -1,4 +1,3 @@
-# 212223060295-VASANTH M
 # FAN-SPEED-CONTROLLER-SYSTEM-USING-TEMPERATURE-SENSOR
 # EXP 1(A) FAN SPEED CONTROLLER SYSTEM USING TEMPERATURE SENSOR
 
@@ -185,9 +184,7 @@ void poweroffRelay()
 ```
 # ouput 
 
-<img width="1464" height="715" alt="Screenshot 2025-09-17 154706" src="https://github.com/user-attachments/assets/a88eab05-7ece-473e-9148-1b4bd4b928c3" />
-
-<img width="1451" height="729" alt="Screenshot 2025-09-17 154737" src="https://github.com/user-attachments/assets/576a2c70-f62a-4131-8599-b9eccca5a921" />
+https://github.com/user-attachments/assets/060bbfef-09d5-45cb-ba72-984675a1a9fa
 
 # Result
 ```
